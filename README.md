@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="EEG_Emotion_Classification_RNN.png" width="100%">
+</p>
+
 # EEG Emotion Classification using Deep Learning
 
 ## Overview
